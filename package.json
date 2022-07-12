@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark-travel",
+  "version": "1.0.0",
+  "description": "A fictional travel website from web development with node and express by ethan brown",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thabiso Moyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
